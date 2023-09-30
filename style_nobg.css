@@ -1,3 +1,5 @@
+/* See humans.txt for full thanks */
+
 body {
 	max-width: 800px ;
 	margin: auto ;
@@ -42,11 +44,11 @@ a:hover { text-decoration: underline; }
 a:active { text-decoration: underline; }
 
 /* What font to use */
-h1, h2, h3, a, th {
+h1, h2, h3, a, th, blockquote, ubuntu {
 	font-family: Ubuntu, "Noto Sans", "Liberation Sans", Helvetica, Arial, sans-serif;
 }
 
-pre, tt, xmp {
+pre, tt, xmp, ubuntu-mono {
 font-family: monospace, "Ubuntu Monospace", Courier;
 }
 
@@ -62,7 +64,7 @@ a:hover {
 	text-decoration: none;
 }
 
-/* Thnak you to Job of joppiesaus.neocities.org for not only writing the following CSS, but also allowing me to use it */
+/* Thank you to Job of joppiesaus.neocities.org for not only writing the following CSS, but also allowing me to use it */
 /* Job has been a friend of mine for a few years now, and it would really make me happy if you checked out their website */
 figure {
 	display: block;
@@ -86,7 +88,13 @@ figure {
 /* I am unsure if the following code *can* even be copyrighted due to how generic it is */
 blockquote {
 	border-left: 0.1em solid #cc66ff; 
-	padding-left: 0.3em; }
+	padding-left: 0.3em;
+}
+
+/* The following was written by yourdevilfriends.art - thank you */
+uppercase,yell {
+	text-transform: uppercase;
+}
 
 /* The following has been taken from the below URL */
 /* https://learn2dev.com/articles/css-shorts/spoilers */

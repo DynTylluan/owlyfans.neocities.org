@@ -1,9 +1,9 @@
-# Mirror of owlyfans.neocities.org
+# owly.fans
 
-> You might be looking for [this git](https://github.com/DynTylluan/owly.fans), as this one is for the Neocities' version.
+> You might be looking for [this git](https://github.com/dynTylluan/owlyfans.neocities.org), as this one is for the .fans version.
 
-During the lifetime of my [OwlyFans website](https://owly.fans), it would live on [Neocities](https://neocities.org), being located at [owlyfans.neocities.org](https://owlyfans.neocities.org) - however, I would later abandon this website, opting to use its own domain, this would effectively mean that there are two versions of OwlyFans; the Neocities one that is now not being updated and the .fans version.
+Due to the way that my website is set up, it means that whenever I edit [this git](https://github.com/DynTylluan/owly.fans), changes are seen on the [live website itself](https://owly.fans) - I have no issue in my website's contents being public, and in fact, I like it being that way.
 
-This git is a mirror of the Neocities version, meaning that parts of the website may be outdated for whatever reason - enjoy.
+If you have spotted an error, [please feel free to contact me](https://github.com/DynTylluan/DynTylluan) about it, or simply fork this git and send a pull request.
 
-> Cass "Owly" Python of [OwlyFans](https://owly.fans), 2023-07-24
+> Cass «Owly» Python of [owly.fans](https://owly.fans), [et al](humans.html)
